@@ -11,7 +11,6 @@ Este proyecto es un backend robusto y escalable para un sistema de ecommerce, de
 - **JWT & Bcrypt**: autenticación segura y manejo de contraseñas.
 - **Cloudinary**: almacenamiento en la nube para imágenes.
 - **Swagger**: documentación automática de API.
-- **Jest**: testing con cobertura automatizada.
 - **Docker**: configuración lista para contenerización.
 - **Prettier + ESLint**: código limpio y consistente.
 
